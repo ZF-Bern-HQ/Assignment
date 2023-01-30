@@ -2,8 +2,7 @@
 ## Fleet Management System (FMS) & Connected Commercial Vehicles 
 
 
-### Optimizing operations for fleets is a big challenge for fleet managers. Logistic companies are constrained by a small margin and any decision should be driven by cost, sustainability, safety, etc.
-### Use your skills to build a recommender system that helps a fleet manager to optimize the logistics operations. Collaborate with us and help increase the efficiency and sustainability of transport service. Let's do it!
+### Optimizing operations for fleets is a big challenge for fleet managers. Logistic companies are constrained by a small margin and any decision should be driven by cost, sustainability, safety, etc. Use your skills to build a recommender system that helps a fleet manager to optimize the logistics operations.
 
 The task of a fleet manager is to make sure all resources such as vehicles, and drivers have been used in an optimum way. It is often a challenge for them to access a powerful intelligent tool as a support system to help them to make the best decision. Often times there are multiple factors which play a role and would require a sophisticated intelligence to handle and analyze and provide insights. Among all, few factors to name here are: drivers’ behaviors, driving situations (highway, city, weather, geolocation, etc.), vehicle condition and type, vehicles’ fuel/battery status. Here we want you to build a solution to suggest the best combination of drivers and vehicles pair based on a driving situation in order to optimize the fleet operation efficiency.
 
