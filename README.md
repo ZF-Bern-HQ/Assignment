@@ -51,24 +51,26 @@ As shown, driving behaviour is one of the important driver to the fuel consumpti
 
 The Dataset contains >15000 trips, 43 vehicles, and 178 drivers (available in power bi data table sheet as well).
 
-<!---
+
 ### Goal
 
-In the power bi dashboard we have provided some insight on various factors playing a role for the fuel consumption at a descriptive level. The first goal is try to clasify the features which are contributing on driving behavior for example.
+In visualization below some insights are seen on various factors playing a role for the fuel consumption at a descriptive level. As a first goal one can clasify the features which are contributing on the driving behavior, that is:
 <img src="https://user-images.githubusercontent.com/113338125/190188820-69cc40a3-cc4a-4172-89f7-d1e484bdb34e.png"  width="700">
 
 
-The trips (vehicle missions) can be clustered as we have shown in the insight tab based on varios feature and a so-called K-means metric:
+The trips (vehicle missions) can be clustered as depicted in the insight tab based on varios feature and a so-called K-means metric:
 <img src="https://user-images.githubusercontent.com/113338125/190189748-d251054f-f90a-412c-8868-8d422b6f633f.png"  width="800">
 
 
 One of the goal here could be to build up a model to demonstrate how much driving behavior contributes positively on classifying the trips or drivers. Therefore one can estimate the contribution of the driving behavior on the fuel consumption.
--->
+
 
 ### Our expectation
 
+- Python notebook with steps defined.
 - Presentation with a clear problem statement & solution definition.
 - Provide Illustration of results as much as possible.
+
 
 The solution should serve a fleet manager to optimize the fleet operation.
 
