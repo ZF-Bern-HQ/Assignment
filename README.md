@@ -51,7 +51,7 @@ As shown, driving behaviour is one of the important driver to the fuel consumpti
 
 The Dataset contains >15000 trips, 43 vehicles, and 178 drivers (available in power bi data table sheet as well).
 
-
+<!---
 ### Goal
 
 In the power bi dashboard we have provided some insight on various factors playing a role for the fuel consumption at a descriptive level. The first goal is try to clasify the features which are contributing on driving behavior for example.
@@ -63,7 +63,7 @@ The trips (vehicle missions) can be clustered as we have shown in the insight ta
 
 
 One of the goal here could be to build up a model to demonstrate how much driving behavior contributes positively on classifying the trips or drivers. Therefore one can estimate the contribution of the driving behavior on the fuel consumption.
-
+-->
 
 ### Our expectation
 
