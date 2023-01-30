@@ -58,7 +58,7 @@ In visualization below some insights are seen on various factors playing a role 
 <img src="https://user-images.githubusercontent.com/113338125/190188820-69cc40a3-cc4a-4172-89f7-d1e484bdb34e.png"  width="700">
 
 
-The trips (vehicle missions) can be clustered as depicted in the insight tab based on varios feature and a so-called K-means metric:
+The trips (vehicle missions) can be clustered as depicted below based on varios feature and a so-called K-means metric:
 <img src="https://user-images.githubusercontent.com/113338125/190189748-d251054f-f90a-412c-8868-8d422b6f633f.png"  width="800">
 
 
