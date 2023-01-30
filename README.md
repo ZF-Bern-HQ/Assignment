@@ -28,18 +28,19 @@ The folllowing is a schematic image of fuel/energy consumption distribution by m
 
 <img src="https://user-images.githubusercontent.com/27730528/189534561-e959164e-702c-4b4f-b84e-c6aab2b1a373.png"  width="500">
 
-As shown, driving behaviour is one of the important driver to the fuel consumption. Every fleet manager would like to have a such a picture according to the historical fleet operations and optimized the efficiency and sustainability. The main challenge is to provide enough evidence to the fleet manager to decide based on the data in the past. Hence the fleet manager would be able to optimize his/her resources, i.e., connect a right driver to a right trip and vehicle. 
+As shown, driving behaviour is one of the important driver to the fuel consumption. Every fleet manager would like to have a such a picture according to the historical fleet operations and optimized the efficiency and sustainability. The main challenge is to provide enough evidence to the fleet manager to decide based on the data in the past. Hence the fleet manager would be able to optimize his/her resources, i.e., connect a right driver to a right trip and vehicle pair. 
 
 
 ### Problem statement
 
-*Question:* How might we help the fleet manager use their fleet data to reduce their operating costs and improve sustainability? 
+*Question:* How might we help the fleet manager use their fleet data to reduce their operating costs and improve efficiency? 
 
-*Challenge:* Develop a concept that utilises driving insights to optimise the operation of a fleet for its owner.
+*Challenge:* Develop an algorithm that utilises driving scores and optimises driver-vehicle pair as a recommender system.
 
 *Hints:*
-- Start with a clear business case/idea.
+- Start with a clear business case/idea definition (few slides when presenting to us).
 - Focus on identifying how connecting vehicle data to alternative data sources can add value.
+- Provide us with a your script completeing python notebook provided in the attachment. 
 
 
 ### Data provided
@@ -66,16 +67,8 @@ One of the goal here could be to build up a model to demonstrate how much drivin
 
 ### Our expectation
 
-- Presentation with a clear problem statement & solution definition (a business opportunity potentially supported by market demand).
+- Presentation with a clear problem statement & solution definition.
 - Provide Illustration of results as much as possible.
-- Mockup/wireframe of digital solution for a fleet manager with a prescriptive / decision making feature.
 
-Design a mockup of business solution using insights from the data provided. The solution should serve a fleet manager to optimize the fleet operation.
+The solution should serve a fleet manager to optimize the fleet operation.
 
-
-### Downloads
-Downloads will be made available during the workshops on Friday, Sept 16. Stay tuned!
-
-We look forward to working with you at the HackZurich 2022!
-
-You have questions, ideas for your own project, or just want to chat with us? Reach out on DISCORD channel #19-zf or directly at our booth.
