@@ -28,7 +28,7 @@ The folllowing is a schematic image of fuel/energy consumption distribution by m
 
 <img src="https://user-images.githubusercontent.com/27730528/189534561-e959164e-702c-4b4f-b84e-c6aab2b1a373.png"  width="500">
 
-As shown, driving behaviour is one of the important driver to the fuel consumption. Every fleet manager would like to have a such a picture according to the historical fleet operations and optimized the efficiency and sustainability. The main challenge is to provide enough evidence to the fleet manager to decide based on the data in the past. Hence the fleet manager would be able to optimize his/her resources, i.e., connect a right driver to a right trip and vehicle pair. 
+As shown, driving behaviour is one of the important driver to the fuel consumption. Every fleet manager would like to have a such a picture according to the historical fleet operations and optimized the efficiency and sustainability. The main challenge is to provide enough evidence to the fleet manager to decide based on the data in the past. Hence the fleet manager would be able to optimize his/her resources, i.e., connect a right driver to a right trip and vehicle. 
 
 
 ### Problem statement
