@@ -1,4 +1,4 @@
-# Assignment for a Data Engineer candidate at ZF  
+# Assignment for a Data Engineer candidate
 ## Fleet Management System (FMS) & Connected Commercial Vehicles 
 
 
