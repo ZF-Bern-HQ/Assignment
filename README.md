@@ -39,7 +39,7 @@ As shown, driving behaviour is one of the important driver to the fuel consumpti
 
 *Hints:*
 - Start with a clear business case/idea definition (few slides when presenting to us).
-- Focus on identifying how connecting vehicle data to alternative data sources can add value.
+<!--- - Focus on identifying how connecting vehicle data to alternative data sources can add value. -->
 - Provide us with a your script completeing python notebook provided in the attachment. 
 
 
