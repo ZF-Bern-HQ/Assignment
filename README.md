@@ -1,4 +1,4 @@
-# Assignment for a Data Engineer candidate
+# Assignment for a Data candidate
 ## Fleet Management System (FMS) & Connected Commercial Vehicles 
 
 
